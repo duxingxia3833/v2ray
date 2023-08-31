@@ -118,3 +118,18 @@ Usage: v2ray [options]... [args]...
 反馈问题) https://github.com/233boy/v2ray/issues
 文档(doc) https://233boy.com/v2ray/v2ray-script/
 ```
+
+
+备份脚本
+考虑到可能会有不可描述的事情发生，你可以将 V2Ray 脚本备份一下以防止万一。
+
+Github 地址：https://github.com/233boy/v2ray
+
+你可以 Fork 一份，如果本人一键删库跑路了，你也可以照样正常安装使用
+
+安装命令如下：
+
+wget https://github.com/233boy/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l
+
+记得要把安装命令中的 233boy 更改成你的 Github 用户名
+
